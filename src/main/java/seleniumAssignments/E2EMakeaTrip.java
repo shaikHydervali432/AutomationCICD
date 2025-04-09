@@ -8,6 +8,7 @@ import org.testng.Assert;
 public class E2EMakeaTrip {
 
 	public static void main(String[] args) throws InterruptedException {
+//added cpmment to test jenkins
 		// TODO Auto-generated method stub
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
